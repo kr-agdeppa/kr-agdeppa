@@ -1,6 +1,6 @@
 <h1>Hello, World!</h1>
 
-<h3>Greetings! I'm <a href="https://kr-agdeppa.github.io/my-portfolio/#top">Kristian</a>👋🏻</h3>
+<h3>Greetings! I'm <a href="https://kr-agdeppa.github.io">Kristian</a>👋🏻</h3>
 <br>
 <b>Visits</b>
 
