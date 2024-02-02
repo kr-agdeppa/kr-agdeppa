@@ -2,26 +2,19 @@
 
 <h3>Greetings! I'm <a href="https://kr-agdeppa.github.io">Kristian</a>👋🏻</h3>
 <br>
-<b>Visits</b>
-
-![Visitor Count](https://profile-counter.glitch.me/kr-agdeppa/count.svg)
 <hr>
 <a>As millions of data points are generated every second, my interest in data science has grown exponentially, equipped with proper knowledge and discipline to make detail-oriented and data-driven decisions.</a>
 <hr>
 
-
-
 <h3>⚒️ Here's what I've been focusing/learning on:</h3>
 
-- Deep Learning!
+- Deep Learning
 - Web Scraping
-- Data Engineering
-- Cryptocurrency Project
+- UTI Diagnosis using ML and DL
   
 <hr>
 
 <h3>💼 Technical Skills</h3>
-
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,12 +35,4 @@
 ![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <hr>
-
-<h3>📈 Github Stats</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr-agdeppa&show_icons=true&theme=transparent&hide_border=true)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kr-agdeppa&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-agdeppa&theme=transparent&hide_border=true)
 
